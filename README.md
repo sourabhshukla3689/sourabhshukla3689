@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SOURABH SHUKLA</h1>
-<h3 align="center">Greetings to all. I am a developer for the MERN AND MEAN Stack and a big fan of learning data science. For the sake of improving my skills, I have taken a number of quizzes from Infosys, LinkedIn, and Google.</h3>
+<h3 align="center">Greetings to all. I am a developer for the MERN AND MEAN Stack and a big fan of learning data science And artificial intelligence. For the sake of improving my skills, I have taken several quizzes from Infosys, LinkedIn, and Google.</h3>
 <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sourabhshukla3689](https://github.com/sourabhshukla3689)
 
-- 💬 Ask me about **MERN Stack , android app devlopment**
+- 💬 Ask me about **MERN Stack , android app development**
 
 - 📫 How to reach me **sourabhshukla3689@gmail.com**
 
